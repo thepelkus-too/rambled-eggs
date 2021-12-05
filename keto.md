@@ -85,3 +85,7 @@ So, if you let chia seeds sit in a fluid for a while, they get all gelatinous an
 * There's keto bread at the store. I haven't tried it. I don't know much about the nutrition. Give it a shot if you want.
 * You can make your own bread. Google `fathead bread`. I never really got into that.
 * Intermittent fasting. That's an orthogonal vector with its own benefits (specualtive or otherwise) and drawbacks.
+
+## See also
+* https://www.reddit.com/r/keto/
+* https://peterattiamd.com/category/ketosis/
