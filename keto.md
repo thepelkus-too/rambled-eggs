@@ -72,11 +72,51 @@ I had these in two forms that I never really perfected: keto bombs and chia pudd
 
 ##### Keto bombs
 
-My version of this involved mixing up fresh ground almond butter (from the machine at the store), tahini, and coconut oil (heated just enough to make it liquid) with cocoa powder, monkfruit sugar, a pinch of salt, and sometimes, I don't know, a little cinnamon, a little cayenne, then pouring it all into tiny ice cube molds. Ended up with little truffles, kind of. I'll post my base recipe if I can find it. The internet has a million recipes, though. Check 'em out.
+From the latin for "frozen fat with flavorings", there are as many recipes for fat bombs as there are people eating keto. The origin of my base recipe is lost in the fogs of the past, but it's quick and easy.
+
+**ingredients**
+* 90g coconut oil
+* 45g tahini
+* 45g fresh ground almond butter (from the machine at the store that does the thing)
+* 12.5g-ish monkfruit sweetener
+* 10g cocoa powder
+* pinch salt
+
+**hardware**
+I use a small ice cube tray (it's 3x5 cubes, and the cubes are weeeee)
+
+**instructions**
+Mix it all (I _usually_ do it over low heat to make it easier, but I've done it unheated), pour it into your mold, and let 'em freeze. This makes 15 tiny ice cubes for me, which comes out to something like 10/1/1 fat/carb/protein.
 
 ##### Chia puddings
 
-So, if you let chia seeds sit in a fluid for a while, they get all gelatinous and you got yourself a pudding! In my case, it'd be something like a can of coconut milk to two tablespoons of chia seeds, maybe? Then flavorings, which weren't dissimilar from the keto bomb flavorings I mentioned. This is another one where you google and drown in a sea of options.
+Like the keto bombs, this is a simple base that ripe for riffs. Chia seeds possess some kind of magic by which they, I don't know, absorb fluid and turn their surroundings gelatinous? Not my super power of choice, but it works to our advantage here.
+
+**ingredients**
+* One can coconut milk
+* 45g chia seed
+* 6.5g vanilla
+* 2g cinnamon
+* 10g monkfruit
+* pinch salt
+
+**hardware**
+This just fits in a wide mouth pint mason jar, but you could do it in anything at least that large.
+
+**instructions**
+Mix! Caveat: chia seed will happily clump together in fluid and then give you a big ol' ball of chia power. Don't do that to yourself. Pour a little coconut milk into your container (I do about an inch in my jars), then put everything else in, then stir the beans out of it, until you're sure nothing's stuck together. Since this stuff doesn't float or disperse itself, I'd say pour until you're about an inch or two from the top and thoroughly stir again, thin top off and give a last stir. You could replace the later stirring steps with shaking the jar if you have enough space for things to move around in there, but that will _not_, in my experience, break up the clumps in that first step.
+
+Then stick it in the fridge long enough for it to gel. I've found that that's usually overnight, but YMMV. 
+
+### Omega-3 vs Omega-6
+
+One last note regarding something I'm a little spotty on, which I think is a little fair because the professionals also seem a little spotty on it. There are two major classes of polyunsaturated fats (PUFAs, which I may never say again, but it's a fun acronym): omega-6 and omega-3. There are three kinds of omega-3s: ALA (from plants) and EPA and DHA (from fatty fish, mostly, or really the microalgae they eat).
+
+Now, it's perfectly possible you're getting the recommended minimum of omega-3s, unless you're getting some related skin conditions. That said, there's also some conjecture that the omega-6/omega-3 ratio is important. Or that you're getting a decent amount overall, but you could use more of the fishy kinds. If you're eating your chia pudding, you're definitely getting your ALA. To get the fishy fats, surprise, you should eat some fish: salmon, herring, sardines, mackerel, trout. I do a can of sardines for lunch everyday with some pork rinds for crunch, and I'm not dead yet. (We'll see if I get mercury poisoning eventually.)
+
+To read more about this, go to: https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/)
+
+(Honestly, the NIH professional fact sheets are super sweet. Just a good read on a Sunday morning, that. You can look them up for just about any nutrient!)
 
 ## Things I haven't mentioned
 
